@@ -1,4 +1,4 @@
-# 365_DataScience_Engament
+# 365_DataScience_Engagement
 ## STUDENT CONVERSION RATE ON 365 DATA SCIENCE PLATFORM
 #### Data set can be found here:
 https://learn.365datascience.com/projects/calculating-free-to-paid-conversion-rate-with-sql/?tab=description
